@@ -4,15 +4,8 @@
 
 ---
 
-## 📸 Screenshots
-
-| Pantalla Principal | Historial y Estadísticas |
-|:---:|:---:|
-| ![Main Screen](assets/mockup_main.png) | ![Stats Screen](assets/mockup_stats.png) |
-
----
-
 ## ✨ Características Principales
+
 
 - **🔋 Proyección Inteligente:** Calcula automáticamente cuánto te llegará el recibo basándose en tu ritmo de consumo diario.
 - **⚙️ Tarifas Calibrables:** Ajusta los precios de los bloques (kWh) y cargos fijos según tu factura real para una precisión del 100%.
